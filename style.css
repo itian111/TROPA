@@ -45,7 +45,7 @@ h1 {
     position: relative;
     width: 240px;
     height: 370px;
-    transition: .5s;
+ 
     filter: saturate(10%);
 }
 
@@ -53,7 +53,7 @@ h1 {
     position: absolute;
     width: 240px;
     height: 370px;
-    transition: .5s;
+   
 }
 
 .button:hover {
