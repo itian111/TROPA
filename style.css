@@ -32,7 +32,6 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: .7s;
 }
 
 .slides-div {
